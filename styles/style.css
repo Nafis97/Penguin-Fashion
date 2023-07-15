@@ -1,0 +1,15 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.logo{
+    width: 20px;
+    height: 20px;
+}
+.Hlt{
+    color: rgb(153, 118, 15);
+}
+.olive{
+    background-color: rgb(25, 190, 25);
+    border: 2em;
+}
