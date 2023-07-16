@@ -3,8 +3,8 @@ body{
 }
 
 .logo{
-    width: 20px;
-    height: 20px;
+    width: 260px;
+    height: 35px;
 }
 .Hlt{
     color: rgb(153, 118, 15);
@@ -13,3 +13,38 @@ body{
     background-color: rgb(25, 190, 25);
     border: 2em;
 }
+.jacket-card{
+    border:0;
+}
+.slide{
+    background-color: #fceae8;
+    border-radius: 1em;
+    margin-bottom: 10px;
+}
+.jack-footer{
+    background-color: white;
+    border: 0;
+}
+.jacket{
+    height: 380px;
+    width: 320px;
+    padding:10px;
+    border-radius: 2em;
+    background-color: #f7f7f7;
+}
+.price{
+    float:right;
+}
+.normal-footer{
+    border:0;
+}
+.categories img{
+    width: 70px;
+}
+.bottom{
+    border: 0;
+}
+/* .ending{
+    height: 600px;
+    width: 600x;
+} */
